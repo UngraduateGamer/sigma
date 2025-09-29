@@ -12,5 +12,6 @@ int main(){
     changeA(a);
     cout<<" value of a :"<<a;
 
+
     return 0;
 }
